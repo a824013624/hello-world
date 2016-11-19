@@ -1,2 +1,2 @@
 # hello-world
-Just test
+history.go(-1);
